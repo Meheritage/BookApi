@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\new\\source\\repos\\BookApi\\BookAPI.csproj": {}
+    "C:\\Users\\new\\source\\repos\\BookApi\\BookApi\\BookAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\new\\source\\repos\\BookApi\\BookAPI.csproj": {
+    "C:\\Users\\new\\source\\repos\\BookApi\\BookApi\\BookAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\new\\source\\repos\\BookApi\\BookAPI.csproj",
+        "projectUniqueName": "C:\\Users\\new\\source\\repos\\BookApi\\BookApi\\BookAPI.csproj",
         "projectName": "BookAPI",
-        "projectPath": "C:\\Users\\new\\source\\repos\\BookApi\\BookAPI.csproj",
+        "projectPath": "C:\\Users\\new\\source\\repos\\BookApi\\BookApi\\BookAPI.csproj",
         "packagesPath": "C:\\Users\\new\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\new\\source\\repos\\BookApi\\obj\\",
+        "outputPath": "C:\\Users\\new\\source\\repos\\BookApi\\BookApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
